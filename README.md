@@ -2,6 +2,11 @@
 
 this is a Movie app. I will help you complete the project according to your wishes. use Flutter or Android Studio ​​and build a database for storage and query commands on mysql 
 
+## Video Aplikasi
+
+https://user-images.githubusercontent.com/103660570/184511104-3fc87312-7fd5-4ed5-8557-791eaf87211b.mp4
+
+
 ## Screen Aplikasi
 
 ![WhatsApp Image 2022-08-13 at 08 58 14](https://user-images.githubusercontent.com/103660570/184510514-c3bb5e7c-fe7e-44bf-b3c2-65bf087b5500.jpeg)
