@@ -1,6 +1,6 @@
-# tes_movie
+# Flutter Movie
 
-A new Flutter project.
+this is a Movie app. I will help you complete the project according to your wishes. use Flutter or Android Studio ​​and build a database for storage and query commands on mysql 
 
 ## Getting Started
 
